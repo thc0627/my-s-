@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Mplayer照片/back.jpg</file>
+        <file>Mplayer照片/back.png</file>
+        <file>Mplayer照片/backward.png</file>
+        <file>Mplayer照片/exchange.png</file>
+        <file>Mplayer照片/exit.png</file>
+        <file>Mplayer照片/forward.png</file>
+        <file>Mplayer照片/front.png</file>
+        <file>Mplayer照片/lock.png</file>
+        <file>Mplayer照片/mute_0.png</file>
+        <file>Mplayer照片/mute_1.png</file>
+        <file>Mplayer照片/pause.png</file>
+        <file>Mplayer照片/picture.png</file>
+        <file>Mplayer照片/play.png</file>
+        <file>Mplayer照片/Thumbs.db</file>
+        <file>Mplayer照片/timg.jpg</file>
+        <file>Mplayer照片/unlock.png</file>
+        <file>Mplayer照片/bg1.jpg</file>
+        <file>Mplayer照片/bg2.jpg</file>
+        <file>Mplayer照片/bg3.jpg</file>
+        <file>Mplayer照片/bg4.jpg</file>
+        <file>Mplayer照片/1a.png</file>
+        <file>Mplayer照片/2b.png</file>
+        <file>Mplayer照片/3c.png</file>
+    </qresource>
+</RCC>
